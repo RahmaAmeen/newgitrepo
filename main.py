@@ -1,4 +1,5 @@
 x=90
 print(x)
 y = "dsydfka"
-print(y)
+print (y)
+z="frt"
